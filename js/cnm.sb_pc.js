@@ -17,7 +17,7 @@ window.onload=function()
 	let divTyping = document.getElementById('etext')
 	let i = 0,
 		timer = 0,
-		str = '[Guest@路桥博客HTML ~]# sudo -i 		'
+		str = '站长正在看片，请稍等...'
 	function typing()
 	{
 		if (i <= str.length)
